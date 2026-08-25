@@ -30,3 +30,20 @@ student-staff-management-system/
 │
 ├── test10.java
 └── README.md
+
+## Application Screenshots
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Student Registration
+![Student Registration](screenshots/registration.png)
+
+### Student Records
+![Student Records](screenshots/student-records.png)
+
+### Search
+![Search](screenshots/search.png)

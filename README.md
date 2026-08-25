@@ -36,7 +36,7 @@ student-staff-management-system/
     ├── registration.png
     ├── student-records.png
     └── search.png
-
+```
 ## How to Run
 
 1. Install Java JDK 8 or later.
